@@ -1,4 +1,4 @@
-# Diagrama de Classe ! Interface no Java
+# Diagrama de Classe ! Interface  Java
 
 Este projeto tem com a finalidade de mostrar um diagrama de classe de um aparelho celular. 
 
